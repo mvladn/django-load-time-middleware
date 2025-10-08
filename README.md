@@ -75,3 +75,11 @@ You can close the badge using its **✕ (X)** button if it overlaps with element
 This only hides it temporarily — it will reappear when the page is reloaded.
 
 The badge is automatically hidden when printing or for non-HTML responses.
+
+Below is how the badge looks on an HTML page.
+
+Collapsed badge:
+![Collapsed badge](https://github.com/mvladn/django-load-time-middleware/blob/main/screenshots/collapsed_badge.png) 
+
+Expanded panel:
+![Expanded panel](https://github.com/mvladn/django-load-time-middleware/blob/main/screenshots/expanded_badge.png)
